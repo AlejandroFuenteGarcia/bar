@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=bar
+comment1.params=litrosDeCerveza
+comment1.target=bar(double)
+comment2.params=
+comment2.target=java.lang.String\ getpropietario()
+comment3.params=
+comment3.target=boolean\ getestaAbierto()
+comment4.params=
+comment4.target=double\ getlitrosCerveza()
+comment5.params=nombreDelPropietario
+comment5.target=void\ cambiarNombre(java.lang.String)
+comment6.params=litrosConsumidos
+comment6.target=void\ litrosConsumidos(double)
+comment7.params=estadoActual
+comment7.target=void\ abrirOCerrar(boolean)
+comment8.params=
+comment8.target=void\ imprimirDetalles()
+numComments=9
